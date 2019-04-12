@@ -1628,7 +1628,7 @@
 		}
 
 	body {
-		background-color: #fff;
+		background-color: #FF1C1C;
 		color: rgba(0, 0, 0, 0.5);
 	}
 
@@ -2635,7 +2635,7 @@
 	}
 
 	header p {
-		color: #bbb;
+		color: #828282;
 	}
 
 /*Spotlight */
@@ -3053,7 +3053,7 @@
 		.wrapper > header p {
 			text-transform: uppercase;
 			font-weight: 300;
-			font-size: .8rem;
+			font-size: 1rem;
 			letter-spacing: .25rem;
 			margin: 0;
 		}
